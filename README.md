@@ -1,23 +1,8 @@
 ## Hi there 👋
-
-<!--
-**TTAWDTT/TTAWDTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Name:TTAWDTT  
-Age:19  
-OS:Windows  
-Language:Python, JavaScript, TypeScript  
-Skills:Frontend, Backend, Agent  
-Wanting to learn:Electron, Tauri, Agent Skills, Cloud Native  
+- Name:TTAWDTT  
+- Age:19
+- OS:Windows  
+- Language:Python, JavaScript, TypeScript  
+- Skills:Frontend(React, Vue), Backend(Node.js, Django, Flask), Agent  
+- Learning goals:Electron, Tauri, Agent Skills, Cloud Native  
+- Tools:vscode, opencode, codex  
