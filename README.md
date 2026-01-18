@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name:TTAWDTT
-Age:19
-OS:Windows
-Language:Python, JavaScript, TypeScript
-Skills:Frontend, Backend, Agent
-Wanting to learn:Electron, Tauri, Agent Skills, Cloud Native
+Name:TTAWDTT  
+Age:19  
+OS:Windows  
+Language:Python, JavaScript, TypeScript  
+Skills:Frontend, Backend, Agent  
+Wanting to learn:Electron, Tauri, Agent Skills, Cloud Native  
