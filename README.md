@@ -1,4 +1,9 @@
 ## Hi there 👋  
+
+***I want to buld something elegant and meaninguful even in this vibe coding area.***
+
+***Ciallo～(∠・ω< )⌒★***
+
 - Name:TTAWDTT  
 - Age:19  
 - OS:Windows, macOS
