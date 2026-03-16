@@ -1,4 +1,4 @@
-## Hi there 👋  
+## ばかやろう! ✪ ω ✪
 
 ***I want to buld something elegant and meaninguful even in this vibe coding area.***
 
