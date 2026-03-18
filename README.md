@@ -6,8 +6,8 @@
 
 - Name:TTAWDTT  
 - Age:19  
-- OS:Windows, macOS
+- OS:***Windows(main)***, macOS
 - Language:Python, JavaScript, TypeScript  
-- Skills:Frontend(React, Vue), Backend(Node.js, Django, Flask), Agent(**Multi-agent**, Agent Memory, RAG, prompt, langchain, Agent Skills), Electron    
-- Learning goals:Tauri, Cloud Native  
-- Tools:vscode, opencode, **codex⭐**  
+- Skills:Frontend(***React***, Vue), Backend(Node.js, Django, ***Flask***), Agent(***Multi-agent***, Agent Memory, RAG, prompt, langchain, Agent Skills), Electron    
+- Learning goals:***Rust***, Tauri, Cloud Native  
+- Tools:***codex, warp***  
