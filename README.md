@@ -8,7 +8,7 @@
 
 - Name: TTAWDTT  
 - Age: 19
-- Research direction: Representation learning, LLM, KV cache, Multi agent system
+- Research direction: Representation learning, LLM, KV cache, Multi agent system, Generative recommendation system
 - OS: ***Windows(main)***, macOS   
 - Language: Python, JavaScript, TypeScript  
 - Skills: Frontend(***React***, Vue), Backend(Django, ***Flask***), Agent(***Multi-agent***, Agent Memory, RAG, prompt, langchain, Agent Skills), Electron
