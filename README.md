@@ -1,10 +1,8 @@
-## ばかやろう! ✪ ω ✪
-
 ᓚᘏᗢᓚᘏᗢᓚᘏᗢ
 
 ***I'm really intersted in representation learning and curious about the operation and observation of latent space. If you are also willing to seek the essence, we can work together to do some interesting research~***
 
-***Ciallo～(∠・ω< )⌒★***
+***(∠・ω< )⌒★***
 
 - Name: TTAWDTT  
 - Age: 19
