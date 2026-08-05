@@ -8,4 +8,3 @@ Now I'm concentrating in:
 - Tricks in Diffusion Models
 - How to get a girlfriend.
 
-Btw, I'm a member of [simple agent lab](simpleagentlab.com), which is a very young and enthusiastic organization.
